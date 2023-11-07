@@ -642,7 +642,7 @@ footer{
         - clear any floats
 */
 #section9{
-    
+    clear: both;
 }
 
 /* ------------- SECTION 9 STYLES ---------------- */
